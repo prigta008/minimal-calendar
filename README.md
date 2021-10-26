@@ -35,4 +35,4 @@ N = (K + [ 2.6M - 0.2 ] + D + [ D/4 ] + [ C/4 ] - 2C ) mod 7,
 ```
 where K = day, C = Centuries passed, D = year,
 M = month, [x] is Greatest Integer less than or equal to x.
-More details of this formula can be found at [here](https://en.wikipedia.org/wiki/Zeller%27s_congruence, "Zeller's Congruence")
+More details of this formula can be found at [here](https://en.wikipedia.org/wiki/Zeller%27s_congruence "Zeller's Congruence")
